@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerView Tutorial</string>
+    <string-array name="programmingLanguages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>JAVA</item>
+        <item>KOTLIN</item>
+        <item>PYTHON</item>
+        <item>RUBY</item>
+        <item>TYPESCRIPT</item>
+        <item>REACT</item>
+        <item>JAVASCRIPT</item>
+        <item>SCALA</item>
+    </string-array>
+    <string-array name="description">
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+        <item>This is a random description.</item>
+    </string-array>
+</resources>
